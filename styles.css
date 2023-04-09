@@ -1,0 +1,35 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.picture {
+    width: 200px;
+    height: auto;
+}
+
+.main-list {
+    list-style: none;
+}
+
+.recipe-link {
+    background-color: burlywood;
+    color: brown;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-menu {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.recipe-title {
+    text-align: center;
+}
